@@ -17,8 +17,7 @@ Please use the following instructions for implementing a square for the G Idea E
 5. Save and close the LabVIEW project that was just created.
 6. In the directory where the Square Battle was created, delete any content inside the "\Squares" directory
 7. Fork this repository to your own github account.
-8. Clone the repo to be in the "\Squares" directory.
-     a) Depending on your method of cloning, you may find it useful to use the command as the following "c:\foldername> git clone <https_repo_path> ." the "." should prevent an extra directory from creeping into the cloning process.
+8. Clone the repo to be in the "\Squares" directory.  Depending on your method of cloning, you may find it useful to use the command as the following "c:\foldername> git clone <https_repo_path> ." the "." should prevent an extra directory from creeping into the cloning process.
 9. You may now copy the "My Team" directory, rename the library and start programming your Square Team.
 10. When completed with programming your Team, commit all your code and create a pull request.  The only directory that should have any changes is the one for your Team.
 11. The GIE committee will review all the pull requests and once it's shown that the team is functional, we will add it to the list for the brackets.
