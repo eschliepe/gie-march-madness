@@ -1,4 +1,4 @@
-# gie-march-madness
+# gie-square-battle
 Repository for people to submit to the March Madness code challenge.
 
 The G Idea Exchange committe is proud to host the inaugural March Madness Square Battle event.  The intention of the event is to raise money to support the creation or further development of LabVIEW (G Language) open source projects.  You can learn more about how to submit an idea or donate to a current idea at https://gie.gcentral.org.  All funds generated from this event will be used to support currently active projects.  You can reach out to gie@gcentral.org to provide feedback or volunteer.
