@@ -1,14 +1,14 @@
 # gie-square-battle
-Repository for people to submit to the March Madness code challenge.
+Repository for people to submit to the Summer of LabVIEW Square Battle code challenge.
 
-The G Idea Exchange committe is proud to host the inaugural March Madness Square Battle event.  The intention of the event is to raise money to support the creation or further development of LabVIEW (G Language) open source projects.  You can learn more about how to submit an idea or donate to a current idea at https://gie.gcentral.org.  All funds generated from this event will be used to support currently active projects.  You can reach out to gie@gcentral.org to provide feedback or volunteer.
+The G Idea Exchange committe is proud to host the inaugural Summer of LabVIEW Square Battle event.  The intention of the event is to raise money to support the creation or further development of LabVIEW (G Language) open source projects.  You can learn more about how to submit an idea or donate to a current idea at https://gie.gcentral.org.  All funds generated from this event will be used to support currently active projects.  You can reach out to gie@gcentral.org to provide feedback or volunteer.
 
 For this challenge, the GIE will be using the Square Battle project as created by Derrick Bommarito and available through the VI Package Manager.  You can search for "SoL SquareBattle".  It currently requires LabVIEW 2020 or higher.  The tournament will be played using LabVIEW 2020 32-bit.  If you wish to participate and don't have access to a copy of LabVIEW, you may use the LabVIEW Community Edition (https://www.ni.com/en-us/shop/labview/select-edition/labview-community-edition.html).
 
-To register for the GIE March Madness Square Battle event, plese visit the following website (TBD). 
-The final day to register and submit squares will be March 24th at 8pm Central Time in the US.
+To register for the GIE Summer of LabVIEW Square Battle event, plese visit the following website (TBD). 
+The final day to register and submit squares will be (TBD) at 8pm Central Time in the US.
 
-Please use the following instructions for implementing a square for the G Idea Exchange (GIE) March Madness Square Battle:
+Please use the following instructions for implementing a square for the G Idea Exchange (GIE) Summer of LabVIEW Square Battle:
 
 1. Install SoL SquareBattle using VI Package Manager.
 2. Open LabVIEW and at the startup screen select the Create Project button.
@@ -21,3 +21,4 @@ Please use the following instructions for implementing a square for the G Idea E
 9. You may now copy the "My Team" directory, rename the library and start programming your Square Team.
 10. When completed with programming your Team, commit all your code and create a pull request.  The only directory that should have any changes is the one for your Team.
 11. The GIE committee will review all the pull requests and once it's shown that the team is functional, we will add it to the list for the brackets.
+12. When submitting your pull request, please use any number of the following hashtags to let us know what team(s) you with to be included with, in addition to the general battle.
